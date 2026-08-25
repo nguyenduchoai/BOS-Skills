@@ -67,15 +67,16 @@ Chưa trả lời được thì **học lại tuần 1**, đừng sang tuần 2.
 |---|---|
 | 6 | Đọc `bos-data-import` — cả SKILL.md và `references/ban-do-cot.md` |
 | 7 | Đọc `references/yeu-cau-va-nghiem-thu-du-lieu.md`. Tự soạn thư xin dữ liệu cho một khách giả định |
-| 8 | **Bài tập file bẩn**: quản lý đưa 3 file có lỗi cài sẵn → tìm ra hết lỗi, viết thư báo khách |
+| 8 | **Bài tập file bẩn**: làm bộ `bai-tap/` (4 file, 14 lỗi cài sẵn) → tìm ra lỗi, viết thư báo khách |
 | 9 | Trên demo: nhập trọn bộ danh mục + tồn đầu kỳ + khách hàng. Cố ý nhập sai một lần để thấy lỗi thật |
 | 10 | Đọc `references/loi-thuong-gap.md`. Ngồi cùng người cũ khi họ làm sạch dữ liệu khách thật (**chỉ xem**) |
 
 **Bài kiểm tra cuối tuần 2** — làm thật, có chấm:
 
-- Đưa một bộ file khách (đã ẩn thông tin) → nghiệm thu và viết kết luận: nhận đủ / thiếu phụ / trả lại,
-  kèm **danh sách thiếu cụ thể** và thư gửi khách.
-- Chấm đạt khi: tìm đúng ≥ 80% lỗi cài sẵn, **và** thư gửi khách nói rõ thiếu gì chứ không nói chung chung.
+- Dùng bộ `bai-tap/` trong kho này (4 file, 14 lỗi cài sẵn; đáp án và thang điểm ở `bai-tap/DAP-AN.md`,
+  người kèm giữ, không đưa người học).
+- Nghiệm thu và nộp: kết luận nhận đủ / thiếu phụ / trả lại, **danh sách lỗi cụ thể**, và thư gửi khách.
+- Chấm đạt khi: tìm đúng ≥ 80% lỗi, **và** thư gửi khách nói rõ thiếu gì chứ không nói chung chung.
 
 Ba lỗi bắt buộc phải nhận ra, vì đây là ba lỗi tốn tiền nhất:
 1. Tên chi nhánh giữa các file không khớp nhau.

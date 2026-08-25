@@ -80,6 +80,16 @@ Mở Claude Code trong thư mục làm việc rồi hỏi bằng tiếng Việt.
 
 ---
 
+## Bài tập cho người mới
+
+Thư mục [`bai-tap/`](bai-tap/) có một bộ 4 file dữ liệu khách gửi tới, **có lỗi cài sẵn** — dùng cho
+bài kiểm tra cuối tuần 2 trong lộ trình `bos-nhan-vien-moi`.
+
+Người học nhận 4 file CSV và đề bài; người kèm giữ đáp án. Chấm đạt khi tìm được ≥ 80% lỗi **và**
+bắt được cả 3 lỗi bắt buộc — ba lỗi tốn tiền nhất khi lọt xuống hệ thống thật.
+
+---
+
 ## Ba điều phải nhớ khi dùng AI trong công việc
 
 1. **AI không thay bạn chịu trách nhiệm.** Nó gợi ý, bạn kiểm và quyết. Trước khi ghi sổ dữ liệu

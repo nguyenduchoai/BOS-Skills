@@ -1,0 +1,9 @@
+CONTACT TYPE,NAME,BUSINESS NAME,CONTACT ID,TAX NUMBER,OPENING BALANCE,PAY TERM,PAY TERM PERIOD,CREDIT LIMIT,EMAIL,MOBILE,ALT. CONTACT NO.,LANDLINE,CITY,STATE,COUNTRY,LANDMARK,CUSTOM FIELD 1,CUSTOM FIELD 2,CUSTOM FIELD 3,CUSTOM FIELD 4
+customer,Trần Văn Bình,Garage Bình Minh,KH-001,0301234567,,30,days,50000000,,0901234567,,,Hà Nội,,Việt Nam,,,,,
+customer,Nguyễn Thị Hoa,Cửa hàng Hoa Mai,KH-002,0302345678,,15,days,20000000,,0912345678,,,Hà Nội,,Việt Nam,,,,,
+customer,Lê Minh Tuấn,,KH-003,,,0,days,0,,0923456789,,,Hải Phòng,,Việt Nam,,,,,
+supplier,Công ty TNHH Lốp Việt,Công ty TNHH Lốp Việt,NCC-001,0303456789,,30,days,,,02438123456,,,Hà Nội,,Việt Nam,,,,,
+supplier,Công ty CP Phụ tùng Đông Á,Công ty CP Phụ tùng Đông Á,NCC-002,0304567890,,45,days,,,02438234567,,,Hà Nội,,Việt Nam,,,,,
+customer,Phạm Quốc Anh,Garage Quốc Anh,KH-004,0305678901,,30,days,30000000,,0934567890,,,Hà Nội,,Việt Nam,,,,,
+customer,Trần Văn Bình,Garage Bình Minh 2,KH-005,0301234567,,30,days,50000000,,0901234567,,,Hà Nội,,Việt Nam,,,,,
+supplier,Công ty TNHH Dầu nhớt Miền Bắc,Công ty TNHH Dầu nhớt Miền Bắc,NCC-003,0306789012,,30,days,,,02438345678,,,Hà Nội,,Việt Nam,,,,,
